@@ -16,9 +16,9 @@ dependencies:
   equatable: ^2.0.7
   dio: ^5.8.0+1
   hive_flutter: ^1.1.0
-  get_it: ^8.0.3
+  get_it: ^9.2.1
   dartz: ^0.10.1
-  flutter_secure_storage: ^9.2.4
+  flutter_secure_storage: ^10.0.0
   hive: ^2.2.3
   url_launcher: ^6.3.1
   carousel_slider: ^5.0.0
@@ -26,7 +26,7 @@ dependencies:
   cached_network_image: ^3.4.1
   flutter_screenutil: ^5.9.3
   flutter_svg: ^2.1.0
-  auto_route: 10.1.0
+  auto_route: ^11.1.0
   bloc_concurrency: ^0.3.0
   lottie: ^3.3.1
   injectable: ^2.5.0
@@ -34,12 +34,13 @@ dependencies:
   rxdart: ^0.28.0
   flutter_cache_manager: ^3.4.1
   solar_icons: ^0.0.5
+  native_flutter_proxy: ^0.3.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
-  auto_route_generator: 10.1.0
+  flutter_lints: ^6.0.0
+  auto_route_generator: ^10.5.0
   injectable_generator: 
   build_runner: ^2.4.15
 
